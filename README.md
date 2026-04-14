@@ -31,7 +31,7 @@
 ### 1. Клонирование и установка
 
 ```bash
-git clone https://github.com/твой-логин/shum-vibro-monitor.git
+git clone https://github.com/DamskiyUgodnlk217/shum-vibro-monitor.git
 cd shum-vibro-monitor
 python -m venv venv
 source venv/bin/activate    # Windows: venv\Scripts\activate
